@@ -1,4 +1,4 @@
-print("Primer uporabe: 100+3")
+print("Primer: 100+3")
 
 
 def result(val1, val2, operator):
